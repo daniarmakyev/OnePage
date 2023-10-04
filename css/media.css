@@ -14,11 +14,21 @@
         display: block;
     }
 
+    .navbar-toggler {
+        left: 50px;
+        top: 10px;
+    }
+
+    .nav-link {
+        display: flex;
+        flex-direction: column;
+    }
+
     .purchase img {
         position: relative !important;
         display: block;
         left: 10%;
-        top: 0;
+        top: 50px;
         width: 70%;
     }
 
@@ -36,4 +46,13 @@
         margin-right: auto;
     }
 
+    .purchase-btn {
+        margin-left: auto;
+        display: block;
+        margin-right: 5px;
+    }
+    .purchase-link {
+        margin-right: auto;
+        margin-left: 5px;
+    }
 }
