@@ -65,8 +65,8 @@ body {
 
 .purchase-btn a {
     text-decoration: none;
-        font-size: 16px;
-        font-weight: 500;
+    font-size: 16px;
+    font-weight: 500;
 }
 
 .purchase-btn {
@@ -91,24 +91,55 @@ body {
     margin-left: 30px;
 }
 
-.powerful {
-    margin-top: 200px;
+.first-block {
+    margin-top: 7%;
     max-height: 740px;
 }
 
-.powerful h3 {
+.first-block h3,
+p {
+    max-width: 540px;
+}
+
+.title-style {
     color: #091133;
     font-weight: 500;
     font-size: 36px;
 }
 
-.powerful h3, p{
-    max-width: 540px;
-}
-
-.powerful  img{
-    margin-top: 320px;
+.first-img {
+    margin-top: 15%;
     max-width: 700px;
     width: 40%;
     flex-wrap: nowrap;
+}
+
+.first-block-inner img {
+    width: 38px;
+    height: 38px;
+}
+
+.icons h5 {
+    color: #091133;
+}
+
+.first-block-one p {
+    max-width: 250px;
+}
+
+.first-block-two p {
+    max-width: 250px;
+}
+
+.second-block-inner {
+    margin-left: 100px;
+}
+
+.second-block {
+    margin-top: 7%;
+}
+
+.second-block img {
+    max-width: 470px;
+    width: 40%;
 }
