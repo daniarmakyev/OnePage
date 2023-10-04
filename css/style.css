@@ -143,3 +143,55 @@ p {
     max-width: 470px;
     width: 40%;
 }
+
+.last-block {
+    background-image: url(/img/last-block.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+
+.f-span {
+    color: #222F65;
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.sc-span {
+    color: #37447E;
+}
+
+.t-span {
+    color: #5D6970;
+    margin-top: 50px;
+}
+
+.last-block-center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.Landing {
+    color: #37447E;
+    font-weight: 500;
+    font-size: 26px;
+}
+
+.cmp {
+    font-size: 14px;
+    color: #939EA4;
+    font-weight: 500;
+}
+
+.footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #E7ECFF;
+}
+
+.footer ul li {
+    margin-right: 15px;
+}
