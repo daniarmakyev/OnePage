@@ -90,3 +90,25 @@ body {
     padding-top: 5px;
     margin-left: 30px;
 }
+
+.powerful {
+    margin-top: 200px;
+    max-height: 740px;
+}
+
+.powerful h3 {
+    color: #091133;
+    font-weight: 500;
+    font-size: 36px;
+}
+
+.powerful h3, p{
+    max-width: 540px;
+}
+
+.powerful  img{
+    margin-top: 320px;
+    max-width: 700px;
+    width: 40%;
+    flex-wrap: nowrap;
+}

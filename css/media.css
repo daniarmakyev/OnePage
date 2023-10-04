@@ -51,8 +51,31 @@
         display: block;
         margin-right: 5px;
     }
+
     .purchase-link {
         margin-right: auto;
         margin-left: 5px;
+    }
+
+    .powerful {
+        margin-top: 200px;
+    }
+
+    .powerful p {
+        text-align: center;
+    }
+
+    .powerful h3, p {
+        max-width: 100%;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .powerful img {
+        margin-top: 20px;
+        max-width: 700px;
+        width: 60%;
+        flex-wrap: nowrap;
     }
 }
