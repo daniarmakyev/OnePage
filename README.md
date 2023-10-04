@@ -33,7 +33,7 @@
 
 
 ```
-![logo](img/readme-pic.png.png)
+![logo](img/readme-pic.png)
 
 ## Команда проекта
 
