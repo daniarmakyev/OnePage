@@ -35,10 +35,5 @@
 ```
 ![logo](img/readme-pic.png)
 
-## Команда проекта
 
-
-- [Макыев Данияр] — Front-End developer
-
-## Источники
 [Figma](https://www.figma.com/file/yEgxlUIyQTkZhvjEuxQ2yI/Figma-Website-Template---Landing-Page-(Free)-(Community)?type=design&node-id=108-1324&mode=design&t=0caGRVc5b7qANqjO-0)
