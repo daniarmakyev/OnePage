@@ -5,7 +5,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ## Bootstrap
-В header был использован bootstrap, при уменьшении разрешения до 992px на экране выходит кнопка с навигацией. 
 ``` html
     <header class="header">
         <div class="container">
