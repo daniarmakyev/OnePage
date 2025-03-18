@@ -5,8 +5,4 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-![logo](img/readme-pic.png)
-
-
 [Figma](https://www.figma.com/file/yEgxlUIyQTkZhvjEuxQ2yI/Figma-Website-Template---Landing-Page-(Free)-(Community)?type=design&node-id=108-1324&mode=design&t=0caGRVc5b7qANqjO-0)
